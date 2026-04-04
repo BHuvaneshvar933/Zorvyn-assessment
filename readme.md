@@ -224,6 +224,5 @@ Steps:
 3. Test all endpoints
 
 
-<<<<<<< HEAD
 ## Author
 C Bhuvaneshvar Reddy
