@@ -17,7 +17,7 @@ const options = {
     ],
     servers: [
   { url: "http://localhost:5000", description: "Local" },
-  { url: "https://your-render-url.onrender.com", description: "Render" }
+  { url: "https://zorvyn-assessment-jcl3.onrender.com", description: "Render" }
 ],
     components: {
       securitySchemes: {
