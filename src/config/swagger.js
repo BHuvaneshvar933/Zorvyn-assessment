@@ -16,10 +16,9 @@ const options = {
       { name: "Misc" }
     ],
     servers: [
-      {
-        url: "http://localhost:5000"
-      }
-    ],
+  { url: "http://localhost:5000", description: "Local" },
+  { url: "https://your-render-url.onrender.com", description: "Render" }
+],
     components: {
       securitySchemes: {
         bearerAuth: {
