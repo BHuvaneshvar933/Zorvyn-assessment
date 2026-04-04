@@ -226,8 +226,4 @@ Steps:
 
 <<<<<<< HEAD
 ## Author
-=======
-##  Author
->>>>>>> b0b16821be779c5b320d4e6756ce1144d225683e
-
 C Bhuvaneshvar Reddy
