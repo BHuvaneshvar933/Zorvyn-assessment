@@ -142,12 +142,15 @@ JWT_SECRET=your_secret
 
 To quickly populate the database with sample users and financial records:
 
+```bash
 npm run seed
+```
 
 This will create:
-
-Admin, Analyst, and Viewer users
-Sample financial records for testing
+- Admin user
+- Analyst user
+- Viewer user
+- Sample financial records for testing
 
 Default credentials:
 
@@ -198,7 +201,6 @@ Structured logs via pino, with `X-Request-Id` attached to every response.
 
 * MongoDB chosen for flexible schema and aggregation support
 * JWT used for stateless authentication
-* Soft delete used to preserve historical data
 * Aggregation pipelines used for efficient analytics
 
 ---
@@ -222,6 +224,10 @@ Steps:
 3. Test all endpoints
 
 
+<<<<<<< HEAD
 ## Author
+=======
+##  Author
+>>>>>>> b0b16821be779c5b320d4e6756ce1144d225683e
 
 C Bhuvaneshvar Reddy
