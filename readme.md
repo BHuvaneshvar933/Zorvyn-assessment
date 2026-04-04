@@ -138,7 +138,7 @@ JWT_SECRET=your_secret
 
 ---
 
-Seed Script
+## Seed Script
 
 To quickly populate the database with sample users and financial records:
 
